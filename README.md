@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-🔗 **Deployed Link:** _Update after deployment_
+🔗 **Deployed Link:** https://smart-route-pied.vercel.app/
 
 ## GitHub Repository
 

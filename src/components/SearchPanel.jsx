@@ -7,7 +7,7 @@ import { fetchBlockedZones } from "../api/blockedService";
 
 function SearchPanel({ setRoutes, setLoading, setSelectedRoute }) {
   const [start, setStart] = useState("Hyderabad");
-  const [end, setEnd] = useState("Bangalore");
+  const [end, setEnd] = useState("Korutla");
 
   const handleSubmit = async () => {
     try {
